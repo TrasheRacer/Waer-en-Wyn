@@ -1,0 +1,678 @@
+ENGLISH
+
+Phoenix Smart IP43 Charger
+Rev 11 10/2020
+
+Phoenix Smart IP43 Charger
+
+Table of Contents
+1. Safety instructions ................................................................................................................... 1
+2. Installation ............................................................................................................................. 2
+3. Quick User Guide .................................................................................................................... 3
+4. Key properties and features ........................................................................................................ 4
+4.1. Bluetooth functionality ...................................................................................................... 4
+4.2. VE.Direct port ................................................................................................................ 4
+4.3. Programmable relay ......................................................................................................... 4
+4.4. ‘Green’ battery charger with very high efficiency ........................................................................ 4
+4.5. Sustainable, safe and silent ................................................................................................ 4
+4.6. Temperature-compensated charging ...................................................................................... 4
+4.7. Adaptive battery management ............................................................................................. 4
+4.8. Storage mode: less corrosion of the positive plates ..................................................................... 4
+4.9. Reconditioning ............................................................................................................... 4
+4.10. Lithium-ion (LiFePO₄) batteries .......................................................................................... 5
+4.11. Remote on/off ............................................................................................................... 5
+4.12. Alarm LED .................................................................................................................. 5
+4.13. Automatic voltage compensation ......................................................................................... 5
+4.14. Three (3) output versions ................................................................................................. 6
+5. Charging algorithms ................................................................................................................. 7
+5.1. Battery selection ............................................................................................................. 7
+5.2. Lithium-ion (LiFePO) batteries ............................................................................................. 8
+5.3. Fully user-programmable charging algorithm ............................................................................ 8
+5.4. If a load is connected to the battery ....................................................................................... 8
+5.5. Starting a new charging cycle .............................................................................................. 8
+5.6. Calculation of the charging time ........................................................................................... 8
+5.7. Use as a power supply ...................................................................................................... 9
+6. Technical specifications .......................................................................................................... 10
+7. Dimensions .......................................................................................................................... 12
+
+Phoenix Smart IP43 Charger
+
+1. Safety instructions
+
+• Always provide proper ventilation during charging.
+• Avoid covering the charger.
+• Never try to charge non-rechargeable - or frozen batteries.
+• Never place the charger on top of the battery when charging.
+• Prevent sparks close to the battery. A battery being charged could emit explosive gasses.
+• Battery acid is corrosive. Rinse immediately with water if acid comes into contact with skin.
+• This device is not suitable for use by children. Store the charger out of reach of children.
+• This device is not to be used by persons (including children) with reduced physical, sensory or mental capabilities, or lack of
+experience and knowledge, unless they have been given supervision or instruction.
+• Connection to the mains supply must be in accordance with the national regulations for electrical installations. In case of a
+damaged supply cord please contact the manufacturer or your service agent.
+• The charger may only be plugged into an earthed socket.
+
+Page 1
+
+Safety instructions
+
+Phoenix Smart IP43 Charger
+
+2. Installation
+• Install the charger vertically on a non-combustible surface with the supply terminal facing down. To optimise cooling, maintain a
+minimum distance of 10 cm below and above the product.
+• Install close to the battery, but never immediately above the battery (to prevent damage due to gas formation by the battery).
+• Use flexible multi-core copper cables for the connections: see safety instructions.
+• Poor internal temperature compensation (e.g. ambient conditions of battery and charger not within 5°C) may shorten the life
+span of the battery.
+
+Page 2
+
+Installation
+
+Phoenix Smart IP43 Charger
+
+3. Quick User Guide
+1. Connect the battery charger to the battery or batteries.
+2. Connect the battery charger to the wall socket using the AC cable (can be ordered separately).
+All the LEDs light up briefly and once the charger has been activated the relevant status LEDs light up, depending on the
+status of the charger. By default the charger starts up in normal mode and bulk.
+3. If required, press the MODE button to select a different charging algorithm (the battery charger remembers the mode when it
+is disconnected from the power supply and/or battery).
+After selecting reconditioning, the RECONDITION LED will light up and start to blink when reconditioning is active.
+The battery charger switches to LOW (low power) when the MODE button is held down for 3 seconds. The LOW LED will
+then light up and remain lit, and the maximum output current will be limited to 50% of the rated output power. LOW mode can
+be deactivated by holding the MODE button down for another 3 seconds.
+4. The battery will be about 80% charged and ready for use when the ABSORPTION LED lights up.
+5. The battery will be fully charged when the FLOAT (trickle charging) or STORAGE LED lights up.
+6. You can now interrupt the charging at any time by disconnecting the power supply to the charger.
+
+Page 3
+
+Quick User Guide
+
+Phoenix Smart IP43 Charger
+
+4. Key properties and features
+4.1. Bluetooth functionality
+Set-up, monitoring and updating of the charger. Option for parallel redundant charging.
+New functions can be added once they become available using Apple and Android smartphones, tablets and other devices.
+When using Bluetooth functionality, a PIN can be set to prevent unauthorised access to the device. This PIN can be reset to its
+default value (000000) by holding the MODE button down for 10 seconds. For more information, refer to the VictronConnect
+Manual.
+
+4.2. VE.Direct port
+For a wired connection with a Color Control, Venus GX, PC or other devices.
+
+4.3. Programmable relay
+Can be programmed (e.g. with a smartphone) for activation by an alarm or other events. Note that the relay only works when
+there is AC available on the AC input terminals, and therefor the relay cannot be used as, for example, a generator start/stop
+signal.
+
+4.4. ‘Green’ battery charger with very high efficiency
+With an efficiency of up to 94%, these battery chargers generate up to four times less heat than the industry standard. And once
+the battery is fully charged, power consumption drops to less than 1 Watt, which is five to ten times better than the industry
+standard.
+
+4.5. Sustainable, safe and silent
+• Low thermal load on the electronic components.
+• Overheating protection: The output current drops if the temperature rises to 60°C.
+• The charger is cooled by means of natural convection. This eliminates the need for a noisy cooling fan.
+
+4.6. Temperature-compensated charging
+The optimum charging voltage of a lead acid battery is inversely proportional to the temperature. The Phoenix Smart Charger
+measures the ambient temperature at the start of the charging phase and compensates for the temperature while charging. The
+temperature is measured again when the battery charger is in low-current mode during absorption or storage. Special settings for
+a cold or warm environment are therefore not required.
+
+4.7. Adaptive battery management
+Lead acid batteries must be charged in three phases, namely [1] bulk charging, [2] absorption charging and [3] float charging.
+Several hours of absorption charging are required to fully charge the battery and to prevent early defects due to sulphation.
+However, the relatively high voltage during absorption shortens the battery’s life span as a result of corrosion at the positive
+plates.
+Adaptive battery management limits corrosion by reducing the absorption period if possible, i.e. when charging a battery that is
+already (almost) fully charged.
+
+4.8. Storage mode: less corrosion of the positive plates
+Even the lower float charge voltage that follows absorption charging will cause corrosion. It is therefore essential to lower the
+charging voltage even more if the battery remains connected to the charger for more than 48 hours.
+
+4.9. Reconditioning
+A lead acid battery that is insufficiently charged or is left in an uncharged condition for several days or weeks will deteriorate due
+to sulphation . If this is noticed in time, the sulphation can sometimes be partially reversed by charging the battery to a higher
+voltage using a low current.
+Notes:
+
+Page 4
+
+Key properties and features
+
+Phoenix Smart IP43 Charger
+
+Reconditioning must only be used now and then on flat-plate VRLA (gel and AGM) batteries, as the gases formed during
+reconditioning dry out the electrolyte.
+VRLA batteries with cylindrical cells build up more internal pressure before the gases are formed and therefore lose less water
+during reconditioning. Some manufacturers of batteries with cylindrical cells therefore recommend reconditioning in case of
+cyclical application.
+Reconditioning can be applied to wet-cell batteries to ‘balance’ the cells and to prevent acid stratification.
+Some manufacturers of battery chargers recommend impulse charging to reverse the sulphation. However, most battery experts
+agree there is no conclusive evidence that impulse charging is better than charging with a low current / high voltage. This is
+confirmed by our own tests.
+
+4.10. Lithium-ion (LiFePO₄) batteries
+Li-ion batteries are not subject to sulphation and do not have to be fully charged on a regular basis.
+However, Li-ion batteries are highly sensitive to high or low voltages. This is why Li-ion batteries are often equipped with an
+integrated system for cell balancing and to protect against low voltages (UVP: Under Voltage Protection).
+Important note:
+NEVER attempt to charge a lithium-ion battery if the temperature of the battery is below 0°C.2
+Low battery temperature cut-off: This will stop charging lithium batteries below 5°C (default). May require VE.Smart networking
+temperature sensor, e.g. Smart Battery Sense or SmartShunt.
+
+4.11. Remote on/off
+There are three ways to switch on the device:
+1. Short the L and H pins (factory default)
+2. Pull the H pin to a high level (e.g. the battery plus)
+3. Pull the L pin to a low level (e.g. the battery minus)
+
+4.12. Alarm LED
+If an error occurs, the ALARM LED will light up red. The status LEDs indicate the type of error with a blink code. See the following
+table for the possible error codes.
+Error
+
+LOW
+
+BULK
+
+ABS
+
+FLOAT
+
+STORAGE
+
+ALARM
+
+Bulk time protection
+
+Internal Error
+
+Charger over-voltage
+
+Off
+Blinking
+On
+
+4.13. Automatic voltage compensation
+The charger compensates for the voltage drop over the DC cables by gradually increasing the output voltage if the charging
+current rises.
+The fixed voltage offset is 100mV. The voltage offset is scaled with the charge current and added to the output voltage. The
+voltage offset is based on 2x 1- meter cable, contact resistance and fuse resistance.
+
+Page 5
+
+Key properties and features
+
+Phoenix Smart IP43 Charger
+
+Example calculation for the 12/50 (1+1):
+The cable resistance R can be calculated with the following formula:
+
+Here R is the resistance in ohms (Ω), ρ is the resistivity of copper (1.786x10^-8 Ωm at 25°C), l is the wire length (in m) and A is
+the surface area of the wire (in m²).
+A widely used distance from charger to battery is 1 metre. In this case the wire length is 2 metres (plus and minus). When using a
+6AWG cable (16mm²) the wire resistance is:
+
+Installing a fuse close to the battery is highly recommended. The resistance of a standard 80A fuse is:
+Rfuse = 0.720mΩ
+The overall resistance of the circuit can then be calculated with the following formula:
+Rtotal = Rwire + Rfuse
+Therefore:
+Rtotal = 2.24mΩ + 0.720mΩ = 2.96mΩ
+The required voltage drop compensation over the cable can be calculated with the following formula:
+U = I x Rtotal
+In which U is the voltage drop in volts (V) and I is the current through the wire in amperes (A).
+The voltage drop will then be:
+U = 50 x 2.96mΩ = 148mV for the full 50A charging current
+
+4.14. Three (3) output versions
+The three-output version chargers have an integrated FET battery isolator and therefore feature three isolated outputs.
+Although all outputs can supply the full rated output current, the combined output current of all outputs is limited to the full rated
+output current.
+By using the three-output version charger it is possible to charge three separate batteries with only a single charger while keeping
+the batteries isolated from each other.
+The outputs are not regulated individually. One charge algorithm is applied to all outputs.
+
+Page 6
+
+Key properties and features
+
+Phoenix Smart IP43 Charger
+
+5. Charging algorithms
+5.1. Battery selection
+The charge algorithm of the charger must fit the battery type connected to the charger. The following table shows the three
+predefined battery types available. A custom battery type can be programmed by the user.
+Charging voltages at room temperature:
+MODE
+
+ABS
+V
+
+FLOAT
+V
+
+STORAGE
+V
+
+RECONDITION
+Max V@% of
+Inom
+
+NORMAL
+
+14.4
+
+13.8
+
+13.2
+
+16.2@8%, 1h
+max
+
+HIGH
+
+14.7
+
+13.8
+
+13.2
+
+16.5@8%, 1h
+max
+
+LI-ION
+
+14.2
+
+13.5
+
+13.5
+
+N/A
+
+For 24V battery chargers: multiply all values by 2.
+NORMAL (14.4V): recommended for wet-cell flat-plate lead-antimony batteries (starter batteries), flat-plate gel and AGM
+batteries.
+HIGH (14.7V): recommended for wet-cell lead-calcium batteries, Optima spiral cell batteries and Odyssey batteries.
+LI-ION (14.2V): recommended for Lithium Iron Phosphate (LiFePo4) batteries.
+CUSTOM (Adj.): recommended for any other type of battery other the the above mentioned if the adjustable voltages are set
+according to the battery manufacturer recommendations.
+MODE button
+Once the battery charger has been connected to the AC power supply, press the MODE button to select a different charging
+algorithm if required (the battery charger remembers the mode after disconnecting the power supply and/or battery).
+After selecting reconditioning, the RECONDITION LED will light up and start to blink when reconditioning is active.
+The battery charger switches to LOW (low power) when the MODE button is held down for 3 seconds. The LOW LED will then
+remain lit. LOW mode will remain active until the MODE button is held down for another 3 seconds.
+When LOW is active, the output current is limited to max. 50% of the rated output power.
+Intelligent 7-stage charging algorithm for lead acid batteries: (with optional reconditioning)
+1. BULK
+Charges the battery using the maximum current until the absorption voltage is reached. At the end of the bulk phase, the
+battery will be about 80% charged and ready for use.
+2. ABS - Absorption
+Charges the battery using a constant voltage and a decreasing current until it is fully charged. See the above table for the
+absorption voltage at room temperature.
+Variable absorption time:
+The absorption time is short (at least 30 minutes) if an almost fully charged battery is connected and increases to 8 hours for
+a totally discharged battery.
+3. RECONDITION
+RECONDITION is an option for the NORMAL and HIGH charging programs and can be selected by pressing the MODE
+button again after selecting the desired charging algorithm.
+During RECONDITION, the battery is charged to a higher voltage using a low current (8% of the rated current).
+RECONDITION takes place at the end of the absorption phase and ends after one hour or sooner once the higher voltage
+has been reached.
+The RECONDITION LED will be lit while charging and will blink during RECONDITION.
+Example:
+For a 12/30 battery charger: the reconditioning current is 30 x 0.08 = 2.4A
+4. FLOAT
+Float charging. Keeps the battery at a constant voltage and fully charged.
+
+Page 7
+
+Charging algorithms
+
+Phoenix Smart IP43 Charger
+
+5. STORAGE
+Storage mode. Keeps the battery at a lower constant voltage to limit gas formation and corrosion of the positive plates.
+6. READY (battery fully charged)
+The battery is fully charged when the FLOAT or STORAGE LED is lit.
+7. REFRESH
+Slow self-discharging is prevented by automatically ‘refreshing’ the battery with a brief absorption charge.
+
+5.2. Lithium-ion (LiFePO) batteries
+When charging a lithium-ion battery, the charger uses a specific charging algorithm for lithium-ion batteries to maximise their
+performance. Select LI-ION using the MODE button. When using the Low battery temperature cut-off, charging will stop when
+batteries fall below 5°C (default) when coupled with a suitable VE.Smart networking temperature sensor, e.g. Smart Battery
+Sense or SmartShunt.
+You can see when this feature is active by pressing the 'Why is my charger off?' button in VictronConnect and it will state that the
+charger is off due to a low battery temperature.
+The voltage set points are set to lowest value possible (rather than switching the unit off completely), as it cannot be guaranteed
+that a battery voltage is always present, which is required for the charger to switch off.
+Some lithium batteries with built-in BMS will cut themselves off in case of over/under voltage or temperature, this includes Victron
+Smart Lithium batteries. Since the BMS will disable the charge when the batteries are below 5°C, and also in case of cell over
+voltage.
+It is not necessary to use the VE.Smart sense feature, or buy a Smart Battery Sense to make sure a Phoenix Smart Charger
+stops charging a Victron Smart Lithium Battery below 5°C, when correctly installed with a BMS.
+
+5.3. Fully user-programmable charging algorithm
+If the three pre-programmed charging algorithms are not suitable for your purposes, you can also program your own charging
+algorithm using Bluetooth or the VE.Direct interface.
+If a self-programmed charging algorithm is selected, the NORMAL, HIGH and LIION LEDs will not be lit. The status LEDs indicate
+the location of the charging program in the charger.
+If the MODE button is pressed during a self-programmed charging algorithm, the charger will return to the pre-programmed
+NORMAL charging algorithm.
+
+5.4. If a load is connected to the battery
+A load can be applied to the battery during charging. Note: The battery will not be charged if the load current exceeds the output
+current of the battery charger. Reconditioning will not be possible if a load is connected to the battery.
+
+5.5. Starting a new charging cycle
+A new charging cycle starts if:
+1. The charger is in the float or storage phase and the current rises to its maximum value for more than 4 seconds due to a load.
+2. The MODE button is pressed while charging.
+3. The mains power is disconnected and reconnected.
+
+5.6. Calculation of the charging time
+A lead battery is about 80% charged at the start of the absorption phase.
+The time T until 80% charged can be calculated as follows:
+T = Ah / I
+In which:
+I is the charging current (= current from the charger minus any current due to a load).
+Ah the number of ampere hours that should be charged.
+A full absorption period up to 8 hours will be required to charge a battery 100%.
+Example:
+
+Page 8
+
+Charging algorithms
+
+Phoenix Smart IP43 Charger
+
+Charging time to 80% for a fully discharged 220Ah battery when charging it with a 30Abattery charger: T = 220 / 30 = 7.3 hours.
+Charging time to 100%: 7.3 + 8 = 15.3 hours
+A Li-ion battery is more than 95% charged at the start of the absorption phase and will be fully charged after about 30 minutes of
+absorption charging.
+
+5.7. Use as a power supply
+The charger can be used as a power supply (a load is present but no battery is connected). The supply voltage can be set using
+Bluetooth or the VE.Direct interface.
+When used as a power supply, only the BULK, ABSORPTION, FLOAT and STORAGE LEDs will light up and remain lit.
+When the charger is set up as a power supply, it will not respond to the remote on-off.
+If the MODE button is pressed while using the charger as a power supply, it will return to the pre-programmed NORMAL charging
+algorithm.
+
+Page 9
+
+Charging algorithms
+
+Phoenix Smart IP43 Charger
+
+6. Technical specifications
+Phoenix Smart Charger
+
+12V,
+
+12V,
+
+24V,
+
+24V,
+
+2 outputs
+
+3 outputs
+
+2 outputs
+
+3 outputs
+
+12/30(1+1)
+
+12/30(3)
+
+24/16(1+1)
+
+24/16(3)
+
+12/50(1+1)
+
+12/50(3)
+
+24/25(1+1)
+
+24/25(3)
+
+Input Voltage
+
+230 VAC (range: 210 – 250 V)
+
+DC Input voltage range
+
+290 – 355 VDC
+
+Frequency
+
+45-65 Hz
+
+Power factor
+Back current drain
+
+0,7
+AC disconnected: < 0,1 mA
+
+AC connected and charger remote off: < 6 mA
+
+No load power consumption
+Efficiency
+
+Charge voltage 'absorption'
+
+1W
+12/30: 94%
+
+12/30: 94%
+
+12/50: 92%
+
+12/50: 92%
+
+Normal: 14,4V
+
+High: 14,7V
+
+94%
+
+Normal: 28,8V
+
+Li-ion: 14,2V
+Charge voltage 'float'
+
+Normal: 13,8V
+
+Normal: 13,2V
+
+High: 13,8V
+
+Normal: 27,6V
+
+High: 27,6V
+
+Li-ion: 27,0V
+
+High: 13,2V
+
+Normal: 26,4V
+
+Li-ion: 13,5V
+Fully programmable
+
+High: 29,4V
+
+Li-ion: 28,4V
+
+Li-ion: 13,5V
+Storage mode
+
+94%
+
+High: 26,4V
+
+Li-ion: 27,0V
+
+Yes, with Bluetooth and/or VE.Direct
+
+Charge current house battery
+
+30 / 50 A
+
+30 / 50 A
+
+16 / 25 A
+
+16 / 25 A
+
+Low current mode
+
+15 / 25 A
+
+15 / 25 A
+
+8 / 12.5 A
+
+8 / 12.5 A
+
+Charge current starter battery
+
+3 A (1+1 output models only)
+
+Charge algorithm
+Battery capacity
+
+Number of battery connections
+Protection
+Can be used as power supply
+Operating temp. range
+
+7 stage adaptive (3 stage adaptive for Li-ion)
+150-300 Ah (30A version)
+
+80-160 Ah (16A version)
+
+250-500 Ah (50A version)
+
+125-250 Ah (25A version)
+
+2
+
+2
+
+3
+
+3
+
+Battery reverse polarity (fuse, not user accessible) / Output short circuit / Over
+temperature
+Yes, output voltage can be set with Bluetooth and/or VE.Direct
+-20 to 60°C (0 - 140°F)
+Rated output current up to 40°C, derate linearly to 20% at 60°C
+
+Humidity (non-condensing)
+Relay (programmable)
+
+max 95%
+DC rating: 5A up to 28VDC
+ENCLOSURE
+
+Material & Colour
+Battery-connection
+AC-connection
+Protection category
+Weight kg (lbs)
+
+Page 10
+
+Aluminium (blue RAL 5012)
+Screw terminals 16 mm² (AWG6)
+IEC 320 C14 inlet with retainer clip (AC cord with country specific plug must be ordered
+separately)
+IP43 (electronic components), IP22 (connection area)
+3,5 kg
+
+Technical specifications
+
+Phoenix Smart IP43 Charger
+
+Phoenix Smart Charger
+
+12V,
+
+12V,
+
+2 outputs
+12/30(1+1)
+12/50(1+1)
+Dimensions (hxwxd)
+
+24V,
+
+24V,
+
+3 outputs
+
+2 outputs
+
+3 outputs
+
+12/30(3)
+
+24/16(1+1)
+
+24/16(3)
+
+12/50(3)
+
+24/25(1+1)
+
+24/25(3)
+
+180 x 249 x 100 mm (7.1 x 9.8 x 4.0 inch)
+STANDARDS
+
+Safety
+
+EN 60335-1, EN 60335-2-29
+
+Emission
+
+EN 55014-1, EN 61000-6-3, EN 61000-3-2
+
+Immunity
+
+EN 55014-2, EN 61000-6-1, EN 61000-6-2, EN 61000-3-3
+
+Vibration
+
+IEC68-2-6:10-150Hz/1.0G
+
+Page 11
+
+Technical specifications
+
+Phoenix Smart IP43 Charger
+
+7. Dimensions
+
+Page 12
+
+Dimensions
+
+

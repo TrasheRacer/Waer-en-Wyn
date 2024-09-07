@@ -1,6 +1,10 @@
 WIP!
 
-- [ ] Review by Maxi before use
+**BATTERY LIMIT:**
+
+**11.6V**
+
+> I assume that you can charge the batteries through the engine. In other words, use the alternator aka dynamo on the engine. I never ran the engine just to top up the batteries, so cannot advice on it much. Something prudent would be to measure the current on the alternator to see how much is produced.
 
 ## SUBSYSTEMS
 
@@ -43,9 +47,10 @@ WIP!
 
  - [ ] Lower mast before departure!
 
-### Lights
+### Electrics
 
- - [ ] Turn on lights when dark
+ - [ ] Turn on lights when dark?
+ - [ ] Switch off appliances (eg fridge) to save power!
 
 ### Windows
 
@@ -55,7 +60,7 @@ WIP!
 ### Batteries
 
  - [ ] Apart from the engine battery when starting,
-       must always remain above 12V
+       must always remain above `11.6V`
  - [ ] Use shore charger and start diesel engine regularly
        in winter or bad weather (ie when solar charging is low)
 
@@ -71,8 +76,5 @@ WIP!
 
 ### Main (Indoor) Steering Console
 
-// FIXME: Disengage stick, or put in neutral? @maxi
-
- - [ ] Before using outside console do something with stick...
-
- 
+ - [ ] Before using outside console make sure that stick is not
+    making the boat drift slowly forward; best put in neutral

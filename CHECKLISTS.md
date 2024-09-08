@@ -1,10 +1,14 @@
-WIP!
-
 **BATTERY LIMIT:**
 
 **11.6V**
 
 > I assume that you can charge the batteries through the engine. In other words, use the alternator aka dynamo on the engine. I never ran the engine just to top up the batteries, so cannot advice on it much. Something prudent would be to measure the current on the alternator to see how much is produced.
+
+### To buy
+
+ - [ ] USB-C to USB-C cable for 65W power delivery? Check car lighter charger outputs
+ - [ ] Shore charging cable https://www.praxis.nl/gereedschap-installatiemateriaal/elektra/verlengsnoeren-stekkerdozen/perel-verloopkabel-h07rn-f-3g1-5-3-m-3680-w-binnen-en-buiten-ip44-zwart-rubber/10258343
+ - [ ] Binoculars
 
 ## SUBSYSTEMS
 
@@ -43,9 +47,11 @@ WIP!
 
 ## DEPARTURE
 
+ - [ ] Check diesel (and water) levels from inside engine compartment
+
 ### Mast
 
- - [ ] Lower mast before departure!
+ - [ ] Lower mast before departure! **DON'T HIT ANY BRIDGES!**
 
 ### Electrics
 

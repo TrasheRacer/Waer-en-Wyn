@@ -1,5 +1,9 @@
 # Waer en Wyn
 
+## Diesel heater
+
+Press start button again to stop, flashing yellow is cooldown(?)
+
 Waer en Wyn is a boat, this repo is about logging related issues.
 
 ![](show.jpg)

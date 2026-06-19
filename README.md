@@ -40,13 +40,13 @@ Additional links:
 - https://en.wikipedia.org/wiki/Mercedes-Benz_OM615_engine
 - https://en.wikipedia.org/wiki/Unimog_421
 
-## Bow thruster: 3.1kW (manual available)
+## Bow thruster: 3.1kW
 
 ## Solar panels: 2x80W Victron
 
 ## Charge controller: Victron BlueSolar 12/24V-20A SCC010530100 (?)
 
-## Batteries: 2x Victron 12V 220Ah AGM Deep Cycle Battery + 1x smaller one for bow thruster (FIXME)
+## Batteries: 2x Victron 12V 220Ah AGM Deep Cycle Battery (household: fridge, lights etc) + 1x 12 volt 50 ah (bow thruster)
 
 ## Gearbox
 
